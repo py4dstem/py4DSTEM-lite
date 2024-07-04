@@ -1,0 +1,4 @@
+[submodule "py4DSTEM"]
+	path = py4DSTEM
+	url = git@github.com:py4dstem/py4DSTEM.git
+	branch = lite-refactor
