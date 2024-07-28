@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This is the lite version of py4DSTEM with fewer dependencies. While this means that the package will load faster and be pyodide compatible, it lacks some of the functionality such as GPU-acceleration, whole-pattern fitting, etc. If you're looking for the main py4DSTEM repo, you can find it [here](https://github.com/py4dstem/py4DSTEM).
 
-![py4DSTEM logo](src/images/py4DSTEM_logo.png)
+![py4DSTEM logo](/src/images/py4DSTEM_logo.png)
 
 **py4DSTEM** is an open source set of python tools for processing and analysis of four-dimensional scanning transmission electron microscopy (4D-STEM) data.
 Additional information:
@@ -203,15 +203,15 @@ See a list [here](docs/papers.md).
 
 # Acknowledgements
 
-If you use py4DSTEM for a scientific study, please cite [our open access py4DSTEM publication in Microscopy and Microanalysis](https://doi.org/10.1017/S1431927621000477). You are also free to use the py4DSTEM [logo in PDF format](src/images/py4DSTEM_logo_54.pdf) or [logo in PNG format](src/images/py4DSTEM_logo_54_export.png) for presentations or posters.
+If you use py4DSTEM for a scientific study, please cite [our open access py4DSTEM publication in Microscopy and Microanalysis](https://doi.org/10.1017/S1431927621000477). You are also free to use the py4DSTEM [logo in PDF format](/src/images/py4DSTEM_logo_54.pdf) or [logo in PNG format](/src/images/py4DSTEM_logo_54_export.png) for presentations or posters.
 
 
-[![TRI logo](src/images/toyota_research_institute.png)](https://www.tri.global/)
+[![TRI logo](/src/images/toyota_research_institute.png)](https://www.tri.global/)
 
 
 The developers gratefully acknowledge the financial support of the Toyota Research Institute for the research and development time which made this project possible.
 
-[![DOE logo](src/images/DOE_logo.png)](https://www.energy.gov/science/bes/basic-energy-sciences/)
+[![DOE logo](/src/images/DOE_logo.png)](https://www.energy.gov/science/bes/basic-energy-sciences/)
 
 Additional funding has been provided by the US Department of Energy, Office of Science, Basic Energy Sciences.
 
